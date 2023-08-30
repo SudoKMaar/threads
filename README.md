@@ -25,7 +25,7 @@ Threads is a web application that allows users to participate in discussions, in
 
 Before running the application, make sure you have the following installed:
 
-- Node.js (v14 or higher)
+- Node.js (v20 or higher)
 - MongoDB
 
 ## Getting Started
